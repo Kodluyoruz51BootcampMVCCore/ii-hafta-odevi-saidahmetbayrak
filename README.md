@@ -20,10 +20,10 @@
 - [ ] Razor Pages Nedir?
 - - [Detaylı Anlatım] (https://www.minepla.net/2017/09/asp-net-core-razor-pages-nedir/ )
 - [ ] 4 Farklı Projede Yapılacak *Change Authentication* :
-  - [ ] No Authentication
-  - [ ] Individual User Account
-  - [ ] Work or School Accounts
-  - [ ] Windows Authentication seçili projeler oluşturulmalı
+  - [ ] No Authentication (https://github.com/Kodluyoruz51BootcampMVCCore/ii-hafta-odevi-saidahmetbayrak/tree/master/NoAuthentication-4)
+  - [ ] Individual User Account (https://github.com/Kodluyoruz51BootcampMVCCore/ii-hafta-odevi-saidahmetbayrak/tree/master/Login%20Authentication-1)
+  - [ ] Work or School Accounts (https://github.com/Kodluyoruz51BootcampMVCCore/ii-hafta-odevi-saidahmetbayrak/tree/master/Login%20Authentication-2)
+  - [ ] Windows Authentication (https://github.com/Kodluyoruz51BootcampMVCCore/ii-hafta-odevi-saidahmetbayrak/tree/master/Login%20Authentication-3)
 - [ ] Ayarlardaki Output kısmındaki Console Application nedir? diğerleri arasında fark nedir? [Ders Akışındaki 6. Madde'yi inceleyin.] ( araştırma ödev verildi ).
 - [ ] c# json serialize / deserialize
 - - [ Örnekler mevcut] (https://docs.microsoft.com/tr-tr/dotnet/standard/serialization/system-text-json-how-to)
